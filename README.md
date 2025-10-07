@@ -33,7 +33,7 @@ My past experience includes developing:
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/yosserkaddour)  
+- 💼 [LinkedIn]([www.linkedin.com/in/yosserkaddour]
 - 📧 Email: **yosser.kaddour@esprit.tn**  
 - 📍 Based in Tunis, Tunisia  
 
